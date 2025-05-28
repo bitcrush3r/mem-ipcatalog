@@ -12,7 +12,7 @@ For example, if you want to extract all IP addresses that appear only once, this
 
 # Get Started
 
-## Install requirements :
+## Install requirements
 ```
 pip install -r requirements.txt
 ```
