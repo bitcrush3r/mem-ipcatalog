@@ -10,6 +10,8 @@ Each key is an IP address, and its value is a list of all occurrences found. Eac
 - filter\_ips\_by\_occurrences.py : This script filters the previously extracted IPs based on how many times they appear.
 For example, if you want to extract all IP addresses that appear only once, this tool can do it.
 
+Tested with Python3.9.2 version.
+
 # Get Started
 
 ## Install requirements
