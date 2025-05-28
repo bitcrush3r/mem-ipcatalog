@@ -12,11 +12,11 @@ For example, if you want to extract all IP addresses that appear only once, this
 
 # Get Started
 
-## Install requirements :
+## Install requirements :
 ```
 pip install -r requirements.txt
 ```
-## Extract IP addresses
+## Extract IP addresses
 ```
 python3 extract_ips_json.py memory_dump.img
 ```
